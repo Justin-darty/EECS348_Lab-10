@@ -1,7 +1,7 @@
 /*
  * Program: Lab 10 - Calculator
  * Author: Justin Daugherty
- * Description: This file contains the implementation of functions to parse a string into a double value.
+ * Description:  This file contains the implementation of functions to parse a string into a double value.
  *              The `parse_number` function is used to convert a valid string into a double for further calculations.
  * Date: April 16, 2025
  */
